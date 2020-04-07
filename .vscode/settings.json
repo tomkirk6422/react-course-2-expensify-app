@@ -1,3 +1,4 @@
 {
-  "workbench.colorTheme": "Dracula"
+  "workbench.colorTheme": "Dracula",
+  "editor.fontFamily": "SFMono-Regular, Menlo, Consolas, 'Courier New', monospace"
 }
